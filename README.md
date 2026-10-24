@@ -2,6 +2,12 @@
 
 Privacy-opruimer.
 
+## ðŸŽ¬ Uitlegvideo
+
+[![Uitlegvideo DravePurge](https://dravenlock.nl/video/DravePurge.jpg)](https://dravenlock.nl/video/DravePurge.mp4)
+
+[â–¶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DravePurge.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Systeem en beveiliging · versie 0.2.10*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
